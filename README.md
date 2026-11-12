@@ -1,22 +1,39 @@
-# Research Archive - Bingchao Zhang
+# Research Archive · Bingchao Zhang
 
-Public archive index for structural dynamics preprints by **Bingchao Zhang**
-(Huangshi Wuyu Structural Intelligence Technology Co., Ltd.),
-ORCID [0009-0004-1160-2602](https://orcid.org/0009-0004-1160-2602).
+结构动力学公开论文索引 / Public publication index for structural dynamics research.
 
-## Archived works on Zenodo
+**Author:** Bingchao Zhang (张炳朝)  
+**Affiliation:** Huangshi Wuyu Structural Intelligence Technology Co., Ltd.  
+**ORCID:** [0009-0004-1160-2602](https://orcid.org/0009-0004-1160-2602)
 
-| Work | Zenodo DOI |
-| --- | --- |
-| ZModel Discrete-Continuous Closure: Conditional Structure Theorems and Reproducible Synthetic Validation | [10.5281/zenodo.23172268](https://doi.org/10.5281/zenodo.23172268) |
-| qSR: A Reproducible Dimensionless Structural Self-Regulation Constant (v1.4) | [10.5281/zenodo.23129547](https://doi.org/10.5281/zenodo.23129547) |
-| qSR Supplement v1.0 - Ten-Position Internal Closure | [10.5281/zenodo.23315396](https://doi.org/10.5281/zenodo.23315396) |
-| Heterogeneous Composite Discrete Dynamical Framework (HCDDF v2.0) | [10.5281/zenodo.23150003](https://doi.org/10.5281/zenodo.23150003) |
+## Publications / 公开论文
 
-Each Zenodo record carries the paper PDF and the complete reproducibility archive (zip).
+| Work | Version | Version DOI |
+|---|---|---|
+| ZModel 离散–连续闭合: ZModel Discrete–Continuous Closure: Conditional Structure Theorems and Reproducible Synthetic Validation | 1.0 | [10.5281/zenodo.23172268](https://doi.org/10.5281/zenodo.23172268) |
+| qSR 主稿: qSR: A Reproducible Dimensionless Structural Self-Regulation Constant for a 9+1 Closure Class | 1.4 | [10.5281/zenodo.23129547](https://doi.org/10.5281/zenodo.23129547) |
+| qSR 补充稿: qSR: A Reproducible Dimensionless Structural Self-Regulation Constant for a 9+1 Closure Class — with Supplement v1.0 | 1.0 | [10.5281/zenodo.23315396](https://doi.org/10.5281/zenodo.23315396) |
+| HCDDF 2.0: Heterogeneous Composite Discrete Dynamical Framework | 2.0 | [10.5281/zenodo.23150003](https://doi.org/10.5281/zenodo.23150003) |
+| HCDDF 1.1: Heterogeneous Composite Discrete Dynamical Framework: A Minimal Structural Theory of Operators, Composite Evolution, Stability and Extensions | 1.1 | [10.5281/zenodo.21638809](https://doi.org/10.5281/zenodo.21638809) |
+| FIRC: Form-Invariant Resolution Calculus: A Typed Proposal-Resolution Framework for Constrained Evolution and Partial Differential Equations | 1.0 | [10.5281/zenodo.22132678](https://doi.org/10.5281/zenodo.22132678) |
 
-## Notes
+## Read, download and cite / 阅读、下载与引用
 
-- Author: Bingchao Zhang
-- Affiliation: Huangshi Wuyu Structural Intelligence Technology Co., Ltd.
-- ORCID: 0009-0004-1160-2602
+- [Public file catalogue](CATALOG.md): PDF, ZIP or HTML links with file sizes and source checksums.
+- [Machine-readable catalogue](catalog.json): six version-specific records, author identifiers, licenses and file URLs.
+- [BibTeX references](references.bib): one entry for each version-specific DOI.
+- [Change history](CHANGELOG.md).
+
+Zenodo hosts the versioned papers and the files listed in each record. This repository provides navigation and metadata; downloadable material varies by record. HCDDF 1.1 provides PDF and HTML; FIRC currently provides a PDF. The other four records also provide a ZIP archive.
+
+qSR main paper version 1.4 and supplement version 1.0 are identified separately. Use the version DOI for the exact cited work; the concept DOI in catalog.json identifies the version family. HCDDF 1.1 and 2.0 are retained as separate historical publications.
+
+## License / 许可
+
+The six Zenodo records declare [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). These DOI links, bibliographic entries and metadata reproduce the public record information. Consult the relevant archived files for any separately stated notices or third-party terms.
+
+## Maintenance / 更新方式
+
+Metadata last checked: **2026-11-12**. Update the catalogue from the six public Zenodo APIs, compare the version, title, author, affiliation, ORCID, license and file inventory, then update all index files in one commit and record the change in CHANGELOG.md. Keep historical version DOIs and record the actual verification performed.
+
+Zenodo and DataCite metadata matched at this check. OpenAIRE has a separate harvesting cycle; a repository update does not itself refresh OpenAIRE or create a new DOI.
