@@ -16,24 +16,29 @@
 | HCDDF 2.0: Heterogeneous Composite Discrete Dynamical Framework | 2.0 | [10.5281/zenodo.23150003](https://doi.org/10.5281/zenodo.23150003) |
 | HCDDF 1.1: Heterogeneous Composite Discrete Dynamical Framework: A Minimal Structural Theory of Operators, Composite Evolution, Stability and Extensions | 1.1 | [10.5281/zenodo.21638809](https://doi.org/10.5281/zenodo.21638809) |
 | FIRC: Form-Invariant Resolution Calculus: A Typed Proposal-Resolution Framework for Constrained Evolution and Partial Differential Equations | 1.0 | [10.5281/zenodo.22132678](https://doi.org/10.5281/zenodo.22132678) |
+| UG 早期公开预印本: Unified Gating: A General Mathematical Framework with Adaptive Operator-Based Discrete Dynamics | 1.0 | [10.5281/zenodo.21341171](https://doi.org/10.5281/zenodo.21341171) |
 
 ## Read, download and cite / 阅读、下载与引用
 
 - [Public file catalogue](CATALOG.md): PDF, ZIP or HTML links with file sizes and source checksums.
-- [Machine-readable catalogue](catalog.json): six version-specific records, author identifiers, licenses and file URLs.
+- [Machine-readable catalogue](catalog.json): seven version-specific records, author identifiers, licenses and file URLs.
 - [BibTeX references](references.bib): one entry for each version-specific DOI.
 - [Change history](CHANGELOG.md).
 
-Zenodo hosts the versioned papers and the files listed in each record. This repository provides navigation and metadata; downloadable material varies by record. HCDDF 1.1 provides PDF and HTML; FIRC currently provides a PDF. The other four records also provide a ZIP archive.
+Zenodo hosts the versioned papers and the files listed in each record. This repository provides navigation and metadata; downloadable material varies by record. HCDDF 1.1 provides PDF and HTML; FIRC currently provides a PDF. The four ZModel, qSR and HCDDF 2.0 records also provide a ZIP archive. The early UG record provides a PDF.
 
 qSR main paper version 1.4 and supplement version 1.0 are identified separately. Use the version DOI for the exact cited work; the concept DOI in catalog.json identifies the version family. HCDDF 1.1 and 2.0 are retained as separate historical publications.
 
 ## License / 许可
 
-The six Zenodo records declare [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). These DOI links, bibliographic entries and metadata reproduce the public record information. Consult the relevant archived files for any separately stated notices or third-party terms.
+The seven Zenodo records declare [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). These DOI links, bibliographic entries and metadata reproduce the public record information. Consult the relevant archived files for any separately stated notices or third-party terms.
 
 ## Maintenance / 更新方式
 
-Metadata last checked: **2026-11-12**. Update the catalogue from the six public Zenodo APIs, compare the version, title, author, affiliation, ORCID, license and file inventory, then update all index files in one commit and record the change in CHANGELOG.md. Keep historical version DOIs and record the actual verification performed.
+Metadata check: six initial records on **2026-11-12**; UG added and checked on **2026-11-13**. Update the catalogue from the seven public Zenodo APIs, compare the version, title, author, affiliation, ORCID, license and file inventory, then update all index files in one commit and record the change in CHANGELOG.md. Keep historical version DOIs and record the actual verification performed.
 
 Zenodo and DataCite metadata matched at this check. OpenAIRE has a separate harvesting cycle; a repository update does not itself refresh OpenAIRE or create a new DOI.
+
+## UG historical context / UG 历史说明
+
+The UG entry is the early public preprint published on 2026-07-13 (v1.0). It is preserved separately from later comprehensive UG frameworks. The published record title and original PDF are retained.

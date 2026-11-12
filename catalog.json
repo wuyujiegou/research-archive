@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "metadata_checked_on": "2026-11-12",
+  "metadata_checked_on": "2026-11-13",
   "repository_role": "public publication index",
   "author": {
     "name": "Bingchao Zhang",
@@ -235,6 +235,40 @@
           "download_url": "https://zenodo.org/api/records/22132678/files/Form-Invariant%20Resolution%20Calculus%20_%20Zhang%20Bingchao%20_%20Publication%20v1.0.pdf/content"
         }
       ]
+    },
+    {
+      "record_id": "21341171",
+      "label": "UG 早期公开预印本",
+      "title": "Unified Gating: A General Mathematical Framework with Adaptive Operator-Based Discrete Dynamics",
+      "version": "1.0",
+      "doi": "10.5281/zenodo.21341171",
+      "concept_doi": "10.5281/zenodo.21341170",
+      "publication_date": "2026-07-13",
+      "record_url": "https://zenodo.org/records/21341171",
+      "metadata_url": "https://zenodo.org/api/records/21341171",
+      "creators": [
+        {
+          "name": "Zhang, Bingchao",
+          "affiliation": "Huangshi Wuyu Structural Intelligence Technology Co., Ltd.",
+          "orcid": "0009-0004-1160-2602"
+        }
+      ],
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "access": "open",
+      "source_updated_at": "2026-11-12T16:01:04.004976+00:00",
+      "archive_context": "Early public preprint; distinct from later comprehensive UG frameworks. The record title is retained as published.",
+      "files": [
+        {
+          "name": "Unified Gating_ A Generalized Positive Operator Framework for Adaptive Discrete Dynamical Systems.pdf",
+          "size_bytes": 255387,
+          "checksum": "md5:c005e4cc5ba6294f0b2c9e3646504b4a",
+          "download_url": "https://zenodo.org/api/records/21341171/files/Unified%20Gating_%20A%20Generalized%20Positive%20Operator%20Framework%20for%20Adaptive%20Discrete%20Dynamical%20Systems.pdf/content"
+        }
+      ]
     }
-  ]
+  ],
+  "metadata_check_scope": "UG checked on 2026-11-13; the six previous records were checked on 2026-11-12."
 }

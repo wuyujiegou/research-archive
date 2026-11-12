@@ -57,3 +57,13 @@ The seven PDFs were downloaded anonymously and their MD5 values matched the sour
 | File | Bytes | MD5 |
 |---|---:|---|
 | [Form-Invariant Resolution Calculus _ Zhang Bingchao _ Publication v1.0.pdf](https://zenodo.org/api/records/22132678/files/Form-Invariant%20Resolution%20Calculus%20_%20Zhang%20Bingchao%20_%20Publication%20v1.0.pdf/content) | 754036 | `06ec68b01354cfdd75b7f1e15a329de6` |
+
+## UG 早期公开预印本 · 1.0
+
+[Unified Gating: A General Mathematical Framework with Adaptive Operator-Based Discrete Dynamics](https://zenodo.org/records/21341171)
+
+Early public preprint published on 2026-07-13. Metadata and PDF checksum checked on 2026-11-13. The original PDF title differs from the record title; the archived file is unchanged.
+
+| File | Bytes | MD5 |
+|---|---:|---|
+| [Unified Gating_ A Generalized Positive Operator Framework for Adaptive Discrete Dynamical Systems.pdf](https://zenodo.org/api/records/21341171/files/Unified%20Gating_%20A%20Generalized%20Positive%20Operator%20Framework%20for%20Adaptive%20Discrete%20Dynamical%20Systems.pdf/content) | 255387 | `c005e4cc5ba6294f0b2c9e3646504b4a` |

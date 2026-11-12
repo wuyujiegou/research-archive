@@ -1,5 +1,13 @@
 # Change history
 
+## 2026-11-13
+
+- Added the early UG public preprint (10.5281/zenodo.21341171), expanding the index to seven version-specific records.
+- Confirmed version 1.0, author affiliation, ORCID and license against Zenodo and DataCite.
+- Added the public PDF link, size and MD5, and independently checked its download checksum.
+- Retained the published title and original PDF; separated this early preprint from later UG frameworks.
+- Preserved the six existing records and their citation history.
+
 ## 2026-11-12
 
 - Expanded the publication index from four to six version-specific records, adding HCDDF 1.1 and FIRC.
