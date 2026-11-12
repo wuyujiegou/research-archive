@@ -33,6 +33,10 @@ qSR main paper version 1.4 and supplement version 1.0 are identified separately.
 
 The seven Zenodo records declare [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). These DOI links, bibliographic entries and metadata reproduce the public record information. Consult the relevant archived files for any separately stated notices or third-party terms.
 
+The index files authored in this repository — README.md, CATALOG.md, catalog.json, references.bib and CHANGELOG.md — are licensed under CC BY 4.0; see [LICENSE](LICENSE). This license does not extend to the archived papers themselves or to third-party material, which remain under the terms stated on their own records.
+
+本仓库中由作者撰写的索引文件（README、CATALOG、catalog.json、references.bib、CHANGELOG）采用 CC BY 4.0 许可，范围不含被索引的论文文件及第三方材料，后者沿用各自记录声明的许可。
+
 ## Maintenance / 更新方式
 
 Metadata check: six initial records on **2026-11-12**; UG added and checked on **2026-11-13**. Update the catalogue from the seven public Zenodo APIs, compare the version, title, author, affiliation, ORCID, license and file inventory, then update all index files in one commit and record the change in CHANGELOG.md. Keep historical version DOIs and record the actual verification performed.

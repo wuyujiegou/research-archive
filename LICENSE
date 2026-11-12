@@ -1,33 +1,3 @@
-=======================================================================
-SCOPE OF THIS LICENSE
-=======================================================================
-
-This repository (https://github.com/wuyujiegou/research-archive) is an
-index of publications archived on Zenodo.
-
-The Creative Commons Attribution 4.0 International license (CC BY 4.0)
-reproduced below applies to the index and descriptive material authored
-by Zhang Bingchao and contained in this repository, namely:
-
-  - README.md
-  - CATALOG.md
-  - catalog.json
-  - references.bib
-  - CHANGELOG.md
-
-The archived publications referenced by this index are NOT relicensed
-here. Each publication carries its own license on its Zenodo record,
-which must be observed when reusing the publication files themselves.
-Third-party material quoted or referenced in this repository remains
-under its own original license.
-
-Attribution: Zhang Bingchao, Huangshi Wuyu Structural Intelligence
-Technology Co., Ltd. (ORCID 0009-0004-1160-2602)
-Source: https://github.com/wuyujiegou/research-archive
-
-=======================================================================
-CREATIVE COMMONS ATTRIBUTION 4.0 INTERNATIONAL PUBLIC LICENSE
-=======================================================================
 Attribution 4.0 International
 
 =======================================================================
