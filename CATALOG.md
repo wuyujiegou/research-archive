@@ -4,7 +4,7 @@ Metadata checked on 2026-11-13. File names, sizes and MD5 checksums come from th
 
 The seven PDFs were downloaded anonymously and their MD5 values matched the source metadata. ZIP and HTML checksums below are source-declared; they were not independently rechecked in this update.
 
-The two Honeycomb Equation records were published and added on 2026-11-13. Their file inventories were read from the public record APIs; checksums for these two records are source-declared.
+The two Honeycomb Equation records were published and added on 2026-11-13. Their file inventories were read from the public record APIs. The preprint PDF, its LaTeX archive, the software archive, the wheel and the reproducibility package were downloaded anonymously and their MD5 values matched the source metadata; the remaining files are source-declared.
 
 ## ZModel 离散–连续闭合 · 1.0
 
