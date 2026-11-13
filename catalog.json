@@ -268,7 +268,129 @@
           "download_url": "https://zenodo.org/api/records/21341171/files/Unified%20Gating_%20A%20Generalized%20Positive%20Operator%20Framework%20for%20Adaptive%20Discrete%20Dynamical%20Systems.pdf/content"
         }
       ]
+    },
+    {
+      "record_id": "24189752",
+      "label": "Honeycomb Equation 参考可执行语义",
+      "title": "Honeycomb Equation Reference Executable Semantics for Query-Scoped PDE Certification: Conformance, Provenance, and Semantic Regression",
+      "version": "1.0",
+      "doi": "10.5281/zenodo.24189752",
+      "concept_doi": "10.5281/zenodo.24189751",
+      "publication_date": "2026-11-13",
+      "record_url": "https://zenodo.org/records/24189752",
+      "metadata_url": "https://zenodo.org/api/records/24189752",
+      "creators": [
+        {
+          "name": "Zhang, Bingchao",
+          "affiliation": "Huangshi Wuyu Structural Intelligence Technology Co., Ltd.",
+          "orcid": "0009-0004-1160-2602"
+        }
+      ],
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "access": "open",
+      "source_created_at": "2026-11-13T08:45:39.965234+00:00",
+      "source_updated_at": "2026-11-13T08:50:26.401152+00:00",
+      "archive_context": "Preprint; the public record declares 10.5281/zenodo.24189825 (software) as its supplement.",
+      "files": [
+        {
+          "name": "HE_Preprint_v1.0_20261113.pdf",
+          "size_bytes": 169883,
+          "checksum": "md5:3c17584e7ae2f5a034c1f839a310959c",
+          "download_url": "https://zenodo.org/api/records/24189752/files/HE_Preprint_v1.0_20261113.pdf/content"
+        },
+        {
+          "name": "HE_Preprint_LaTeX_v1.0_20261113.zip",
+          "size_bytes": 61735,
+          "checksum": "md5:91f1f9a43bb1bf9d935f55edaa810d1f",
+          "download_url": "https://zenodo.org/api/records/24189752/files/HE_Preprint_LaTeX_v1.0_20261113.zip/content"
+        },
+        {
+          "name": "Honeycomb_Equation_v0_Core_Specification.html",
+          "size_bytes": 25739,
+          "checksum": "md5:079f4ecfd5067db226ebe0e265749bc9",
+          "download_url": "https://zenodo.org/api/records/24189752/files/Honeycomb_Equation_v0_Core_Specification.html/content"
+        }
+      ]
+    },
+    {
+      "record_id": "24189825",
+      "label": "Honeycomb Equation 参考可执行语义（软件）",
+      "title": "Honeycomb Equation Reference Executable Semantics",
+      "version": "0.2.1",
+      "doi": "10.5281/zenodo.24189825",
+      "concept_doi": "10.5281/zenodo.24189824",
+      "publication_date": "2026-11-13",
+      "record_url": "https://zenodo.org/records/24189825",
+      "metadata_url": "https://zenodo.org/api/records/24189825",
+      "creators": [
+        {
+          "name": "Zhang, Bingchao",
+          "affiliation": "Huangshi Wuyu Structural Intelligence Technology Co., Ltd.",
+          "orcid": "0009-0004-1160-2602"
+        }
+      ],
+      "license": {
+        "id": "MIT",
+        "url": "https://opensource.org/license/mit/"
+      },
+      "access": "open",
+      "source_created_at": "2026-11-13T08:49:15.018070+00:00",
+      "source_updated_at": "2026-11-13T08:49:15.550344+00:00",
+      "archive_context": "Software; the public record declares itself a supplement to 10.5281/zenodo.24189752 (preprint). Public source mirror: github.com/wuyujiegou/honeycomb-equation, release v0.2.1.",
+      "files": [
+        {
+          "name": "HE_Software_v0.2.1.zip",
+          "size_bytes": 418681,
+          "checksum": "md5:9a4b1b4ced07df2b34ce7bd036477ed6",
+          "download_url": "https://zenodo.org/api/records/24189825/files/HE_Software_v0.2.1.zip/content"
+        },
+        {
+          "name": "honeycomb_v0_prototype-0.2.1-py3-none-any.whl",
+          "size_bytes": 80804,
+          "checksum": "md5:e9848cd73e502db86cf613e1ee393179",
+          "download_url": "https://zenodo.org/api/records/24189825/files/honeycomb_v0_prototype-0.2.1-py3-none-any.whl/content"
+        },
+        {
+          "name": "HE_Reproducibility_v0.3_ORIGINAL.zip",
+          "size_bytes": 247323,
+          "checksum": "md5:b7c386ebbca5229d6af952a2e6a394ce",
+          "download_url": "https://zenodo.org/api/records/24189825/files/HE_Reproducibility_v0.3_ORIGINAL.zip/content"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "size_bytes": 2495,
+          "checksum": "md5:ee5ea462a1420514e59761ee16959b84",
+          "download_url": "https://zenodo.org/api/records/24189825/files/SHA256SUMS.txt/content"
+        },
+        {
+          "name": "修改日志.md",
+          "size_bytes": 1402,
+          "checksum": "md5:1b54e35ef08f37d0e82a3d7185dea3c2",
+          "download_url": "https://zenodo.org/api/records/24189825/files/%E4%BF%AE%E6%94%B9%E6%97%A5%E5%BF%97.md/content"
+        },
+        {
+          "name": "recipient_verify.log",
+          "size_bytes": 2950,
+          "checksum": "md5:bb17f3cb1bef6f1fa7de59a66c294961",
+          "download_url": "https://zenodo.org/api/records/24189825/files/recipient_verify.log/content"
+        },
+        {
+          "name": "recipient_wheel_selfcheck.json",
+          "size_bytes": 485,
+          "checksum": "md5:121dc45f83ac4cae988078bec86b0d63",
+          "download_url": "https://zenodo.org/api/records/24189825/files/recipient_wheel_selfcheck.json/content"
+        },
+        {
+          "name": "reproduce_all_replay.log",
+          "size_bytes": 5498,
+          "checksum": "md5:194d3b8d65e0f4d257f66ee1793c19f3",
+          "download_url": "https://zenodo.org/api/records/24189825/files/reproduce_all_replay.log/content"
+        }
+      ]
     }
   ],
-  "metadata_check_scope": "UG checked on 2026-11-13; the six previous records were checked on 2026-11-12."
+  "metadata_check_scope": "UG and the two Honeycomb Equation records checked on 2026-11-13; the six previous records were checked on 2026-11-12."
 }
